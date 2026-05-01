@@ -49,12 +49,4 @@ This project is configured to be deployed as a monolithic full-stack app on Rail
 6. **Build & Deploy:** Railway will automatically use the root `package.json`. It will run `npm run build` which installs dependencies and builds the React frontend, and then it will run `npm start` which starts the Node server and serves the compiled frontend statically.
 7. **Get Live URL:** Once deployed, click on the domain that Railway generated to access your live application.
 
-## Demo Video Instructions
-For your 2-5 min demo video:
-1. Explain the technology stack used (React, Express, Node.js, MongoDB).
-2. Show the database schema (Collections in MongoDB or show the code models).
-3. Demonstrate creating an Admin user, logging in.
-4. Show creating a Project.
-5. Show creating a Task and assigning it.
-6. Create a Member user, log in, and show them updating their assigned task's status.
-7. Show the Dashboard reflecting the updated task counts.
+
